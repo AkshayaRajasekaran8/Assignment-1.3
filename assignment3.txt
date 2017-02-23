@@ -1,0 +1,34 @@
+1.Pwd: It writes the full path name of current working directory to the standard output.
+Eg.pwd
+2.vi: Starts the visual mode for editing a file.
+Eg. vi filename.
+3.touch: It is for time stamps. It updates and access and modification times of 
+every file with respect to the system time.
+Eg. touch filename.txt- It updates the access time to current time.
+4.mkdir:It is used to create directories on a filesystem.
+Eg.mkdir rmk- creates the directory named rmk.
+5.rm: It is used delete files on linux.
+Eg: rm rmk.txt
+6.ls: It lists directory contents of files and directories.
+Eg: ls z
+7.echo: It is used to display the line of text. It can be 
+used in any place to insert text.
+Eg. echo I am a student.
+8.cat: It is used to create,view,concatenate multiple files
+at the same time.
+Eg: cat rmk.txt-displays content in terminal box.
+9.who: It displays who is logged on to the system.
+Eg: who
+10.cd: Change Directory.It is used to change the current directory.
+Eg: cd rmk/project
+11.date: It displays the current date and time.
+Eg: date
+12.cal: Calendar.It shows the calendar of current month.
+Eg:cal -1 -displays the current month.
+13.mv: It is used to move or rename files.
+mc rmk.txt destination-directory.
+14.cp: It is used to copy files from source to destination.
+Eg: cp original-file new-file.
+15.which: It is used for finding the path names of the files which
+will be exceuted.
+Eg.which ak
